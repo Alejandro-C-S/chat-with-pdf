@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Archivos de macOS
+.DS_Store
+
+# Vectorstore generado
+vectorstore/
+
+# PDFs subidos
+uploads/
+
+# Modelos locales (por si llegaran a aparecer)
+.ollama/
+
+# IDE
+.vscode/
+.idea/
