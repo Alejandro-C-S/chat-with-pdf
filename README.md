@@ -63,7 +63,7 @@ chat-pdf/
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/TU_USUARIO/chat-pdf.git
+git clone https://github.com/Alejandro-C-S/chat-with-pdf.git
 cd chat-pdf
 ```
 
